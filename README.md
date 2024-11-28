@@ -1,5 +1,5 @@
 # Programming Assignment 1 (NLP)
-Tokenize, clean and calculate frequency of words in a text file (alice29.txt).
+Tokenize, clean and calculate frequency of words in a text file (alice29.txt) using Spacy library.
 
 ## How To Setup
 1. Install the required packages using the following command:`pip install -r requirements.txt`
